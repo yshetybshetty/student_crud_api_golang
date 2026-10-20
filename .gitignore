@@ -9,4 +9,5 @@ go.work
 go.work.sum
 .env
 .DS_store
-storage
+/storage
+/config
